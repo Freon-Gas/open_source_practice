@@ -10,4 +10,4 @@ if you'd like to contribute, please check CONTRIBUTING.md
 
 라이센스
 본 프로젝트는 MIT 라이센스 하에 배포됩니다. 
-자세한 내용을 위하여는 [LICENSE.md](../LICENSE.md) 파일을 참고해 주세요.
+자세한 내용을 위하여는 [LICENSE.md](/LICENSE.md) 파일을 참고해 주세요.
